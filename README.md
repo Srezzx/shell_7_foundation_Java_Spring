@@ -12,7 +12,7 @@ Implementing a Seamless CI/CD Workflow for a Spring Boot Application using Azure
 Streamline Solutions Inc. is a dynamic technology company specializing in cutting-edge software solutions. The company is developing a sophisticated Java Spring Boot application designed to revolutionize user experience. To ensure a swift and error-free software deployment process, Streamline Solutions is seeking to establish an efficient Continuous Integration and Continuous Deployment (CI/CD) workflow.
 
 # **Activities:**
-
+All the activities that are to be done in the case study and has been successfully executed.
 ## Project Management Setup:
 
 The development team will establish Azure Boards to manage the Agile/Scrum project's progress, including creating a Project Board, Backlogs Board, Sprints/Iterations and Tasks Board. 
